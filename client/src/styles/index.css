@@ -1,0 +1,10 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "Dokdo", cursive;
+}
+
+body {
+	background-color: #6b9ae5;
+}
